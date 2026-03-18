@@ -1,0 +1,5 @@
+# Copy this file to terraform.tfvars and fill in your values.
+# terraform.tfvars is excluded from version control via .gitignore.
+
+ssh_ip     = "your.ip.address.here"
+public_key = "ssh-ed25519 AAAA... your-public-key-here"

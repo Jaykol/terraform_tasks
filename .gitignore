@@ -1,0 +1,17 @@
+# Private keys
+terra-key
+terra-key.pub
+*.pem
+
+# Terraform state
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
+
+# Terraform variables (contains secrets)
+terraform.tfvars
+*.auto.tfvars
+
+# Terraform working directory
+.terraform/
