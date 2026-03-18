@@ -51,8 +51,8 @@ export AWS_DEFAULT_REGION="us-east-1"
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Jaykol/terraform-aws-ec2.git
-cd terraform-aws-ec2
+git clone https://github.com/Jaykol/terraform-tasks.git
+cd terraform-tasks
 ```
 
 ### 2. Set your variables
